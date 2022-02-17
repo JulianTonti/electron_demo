@@ -4,7 +4,7 @@ A basic electron demo
 
 ** Install (assuming you already have node and gh) **
 ```bash
-gh clone JulianTonti/electron_demo 
+gh repo clone JulianTonti/electron_demo 
 cd electron_demo
 npm install
 ```
