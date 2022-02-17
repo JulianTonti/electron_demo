@@ -2,9 +2,10 @@
 
 A basic electron demo
 
-** Install (assuming you already have node and gh) **
+** Installation **
+* install [NodeJS](https://nodejs.org/en/download/) if required
 ```bash
-gh repo clone JulianTonti/electron_demo 
+git clone https://github.com/JulianTonti/electron_demo.git
 cd electron_demo
 npm install
 ```
