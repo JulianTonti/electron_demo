@@ -1,0 +1,23 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif;
+  margin: auto;
+  max-width: 38rem;
+  padding: 2rem;
+}
+#mermaid_text {
+  resize: vertical;
+  border: solid black 1px;
+  min-height:100px;
+  width: 100%;
+  /*display:inline-block; /* needed to stop editable from adding divs */
+}
+#mermaid_plot {
+  border : solid black 1px;
+  margin-top:10px;
+  width:100%;
+}
+button {
+  margin-right: 10px;
+}
+
